@@ -32,10 +32,10 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 
 ## Program :
 ```
-*/
+/*
 Developed by: Vishinu H
 Register Number: 212223220124
-/*
+*/
 class Solution:
     def cherryPickup(self, grid):
         n = len(grid)
